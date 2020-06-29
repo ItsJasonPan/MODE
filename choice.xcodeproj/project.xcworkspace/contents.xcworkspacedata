@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:choice.xcodeproj">
+      location = "self:/Users/panyingjian/Desktop/XcodeProjects/choice/choice.xcodeproj">
    </FileRef>
 </Workspace>

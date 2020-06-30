@@ -2,7 +2,7 @@
 
 Git repository for MODE, a fashion-oriented social media platform.
 
-Require Xcode 11 or higher. 
+Require Xcode 11 or higher on MacOS 10 or higher. 
 
 Run the code by 
   1. cd to desktop, then typing "git clone https://github.com/ItsJasonPan/MODE.git" in the terminal, enter.
